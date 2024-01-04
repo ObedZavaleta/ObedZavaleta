@@ -1,6 +1,8 @@
 <h1 align="center">Hola 👋, me llamo Obed Zavaleta Fernández</h1>
 <h3 align="center">Soy un frontend developer</h3>
 
+<img src="https://ibb.co/Sn3XqNQ">
+
 - 🔭 I’m currently working on **Grupo Salinas**
 
 - 💬 Ask me about **JavaScript, HTML, CSS, Sql Server**
